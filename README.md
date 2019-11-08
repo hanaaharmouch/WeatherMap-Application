@@ -7,5 +7,3 @@ npm install
 # second-step
 npm run start
 
-# lien-vers-l'application
-https://quiet-island-83974.herokuapp.com
